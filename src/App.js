@@ -1,18 +1,36 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
+import Card from "./components/ComicCards";
+import comics from "./comics.json";
 import './App.css';
+import Wrapper from "./components/Wrapper";
 
 class App extends Component {
+
+  state = {
+    comics
+  };
+
   render() {
+
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
+
+      <div>
+      
+        <Wrapper>
+          {this.state.comics.map(comics => (
+          <Card
+            name={comics.name}
+            image={comics.image}
+            significance={comics.significance}
+          />
+          ))}
+        </Wrapper>
+
+
+
+
+      
       </div>
     );
   }

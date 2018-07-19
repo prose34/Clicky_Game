@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1, 
+        "name": "Tales of Suspense #39",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/675773.jpg",
+        "significance": "First Iron Man",
+        "clicked": false
+    },
+    {
+        "id": 2, 
+        "name": "Journey into Mystery #89",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/674753.jpg",
+        "significance": "First Thor",
+        "clicked": false
+    },
+    {
+        "id": 3, 
+        "name": "Avengers #1",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/668575.jpg",
+        "significance": "First Avengers",
+        "clicked": false
+    }, 
+    {
+        "id": 4, 
+        "name": "Amazing Spider-Man #1",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/673435.jpg",
+        "significance": "#1",
+        "clicked": false
+    },
+    {
+        "id": 5, 
+        "name": "Amazing Fantasy #15",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/741399.jpg",
+        "significance": "First Spider-Man",
+        "clicked": false
+    },
+    {
+        "id": 6, 
+        "name": "Fantastic Four #1",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/670553.jpg",
+        "significance": "First Fantastic Four",
+        "clicked": false
+    },
+    {
+        "id": 7, 
+        "name": "Incredible Hulk #1",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/671019.jpg",
+        "significance": "First Hulk",
+        "clicked": false
+    },
+    {
+        "id": 8, 
+        "name": "Daredevil #1",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/671239.jpg",
+        "significance": "First Daredevil",
+        "clicked": false
+    },
+    {
+        "id": 9, 
+        "name": "Tales to Astonish #27",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/673985.jpg",
+        "significance": "First Ant-Man",
+        "clicked": false
+    },
+    {
+        "id": 10, 
+        "name": "Fantastic Four #52",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/670277.jpg",
+        "significance": "First Black Panther",
+        "clicked": false
+    },
+    {
+        "id": 11, 
+        "name": "X-men #1",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/675191.jpg",
+        "significance": "First X-men",
+        "clicked": false
+    },
+    {
+        "id": 12, 
+        "name": "Avengers #4",
+        "image": "https://d1466nnw0ex81e.cloudfront.net/n_iv/600/668579.jpg",
+        "significance": "Re-Introduction of Captain America",
+        "clicked": false
+    }
+]
