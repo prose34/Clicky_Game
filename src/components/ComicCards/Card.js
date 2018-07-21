@@ -4,7 +4,7 @@ import "./Card.css";
 
 const Card = props => (
 
-    <div onClick = {() => props.Click(props.id)} className="cards">
+    <div onClick = {() => props.Click(props.id)} className="cards comics">
         <div className="img-container">
             <img className="responsive-img" alt={props.name} src={props.image}/>
         </div>
