@@ -4,6 +4,8 @@ import Card from "./components/ComicCards";
 import comics from "./comics.json";
 import './App.css';
 import Wrapper from "./components/Wrapper";
+import Title from "./components/Title";
+
 
 class App extends Component {
 
@@ -16,7 +18,7 @@ class App extends Component {
     return (
 
       <div>
-      
+        <Title>Marvel Comics | Current Game Score: {this.score} | Max Score: {this.maxScore}</Title>
         <Wrapper>
           {this.state.comics.map(comics => (
           <Card
